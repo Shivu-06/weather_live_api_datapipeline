@@ -1,0 +1,53 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# MySQL database files
+*.db
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# API Keys and Secrets
+config.py
+secrets.py
+
+# Temporary files
+temp/
+tmp/
+
+# Anaconda
+.conda/
+
+# Pytest
+.pytest_cache/
+
+# Weather project outputs
+weather_data.csv
+
+config.py
